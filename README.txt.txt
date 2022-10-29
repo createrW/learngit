@@ -1,0 +1,2 @@
+Hello,this is my first git text.
+PLEASE READ CAREFULLY WHILE READING THE HELP BELOW!
